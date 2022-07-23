@@ -1,23 +1,23 @@
 # ProjectSputnik - Ideas
 
-- []: Economy
-  - []: Contracts
-  - []: Cost of launch
-  - []: Insurance of satellite
-  - []: "Rent" ground station equipment
-- []: Building a satellite
-- []: GSE (Ground Station Equipment) maintenance
+- [ ] : Economy
+  - [ ] : Contracts
+  - [ ] : Cost of launch
+  - [ ] : Insurance of satellite
+  - [ ] : "Rent" ground station equipment
+- [ ] : Building a satellite
+- [ ] : GSE (Ground Station Equipment) maintenance
   - Communication Dishes:
     - Rented:
       - Cost is based on usage
-    - []: **must** have connection to satellite for direct communication.
-    - []: **must** have power to communicate.
+    - [ ] : **must** have connection to satellite for direct communication.
+    - [ ] : **must** have power to communicate.
   - Power
-    - []: Generate power through generators.
-    - []: Buy power from market.
-- []: Maintainence of satellites
-  - []: Satellite communications
-    - []: Direct communication with satellites
-    - []: Access through equilevent of NASA TDRIS
-  - []: Satellite orbit
+    - [ ] : Generate power through generators.
+    - [ ] : Buy power from market.
+- [ ] : Maintainence of satellites
+  - [ ] : Satellite communications
+    - [ ] : Direct communication with satellites
+    - [ ] : Access through equilevent of NASA TDRIS
+  - [ ] : Satellite orbit
     - Include orbit precession?
